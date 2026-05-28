@@ -3524,7 +3524,7 @@ case 'owner': {
                         await socket.sendMessage(sender, {
                             image: { url: logo },
                             caption: formatMessage(
-                                '📊 *𝚂𝙸𝙻𝙰 𝙼𝙸𝙽𝙸 Whatsapp Bot System*',
+                                '📊 *𝚂𝙸𝙻𝙰 md 𝙼𝙸𝙽𝙸 Whatsapp Bot System*',
                                 `🟢 *Active Sessions:* ${activeCount}\n` +
                                 `✅ *Healthy:* ${healthyCount}\n` +
                                 `🔄 *Reconnecting:* ${reconnectingCount}\n` +
